@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App1_WilsonLlivicura</string>
+    <string name="congratulation">Congratulations %s</string>
+    <string name="back">volver</string>
+</resources>
